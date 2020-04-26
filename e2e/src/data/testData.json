@@ -1,0 +1,20 @@
+{
+
+    "clientId" : {
+        "client1" : "10157",
+        "client2" : "99001",
+        "client3" : "10041",
+        "client4" : "76543"
+    },
+
+    "zipcode" : {
+        "zipcode1" : "78701",
+        "zipcode2" : "90001" 
+    },
+
+    "technicians" : {
+        "tech1" : "NICOLE"
+    }
+
+
+}
